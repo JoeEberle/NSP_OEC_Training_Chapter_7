@@ -88,7 +88,7 @@ To get started with the **Nsp Oec Training Chapter 7** solution repository, foll
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](NSP_OEC_Training_Chapter_7.png)  <br>
+ ![additional_image](NSP_OEC_Training_Chapter_7.png)  <br>![additional_image](sample_taking_history.png)  <br>![additional_image](scene_size_up.png)  <br>
     
 
 ## Github    
