@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Nsp Oec Training Chapter 7 - NSP_OEC_Training_Chapter_7
-NSP_OEC_Training_Chapter_7
+# Nsp Oec Training Chapter 7 - National Ski Patrol - Outdoor Emergency Care chapter 7
+National Ski Patrol - Outdoor Emergency Care chapter 7
 
 ![Image image_filename](code.png)
 
