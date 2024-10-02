@@ -138,3 +138,73 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-01 21:33:56,410 - INFO - START NSP_OEC_Training_Chapter_7 =============================================
+2024-10-01 21:33:56,410 - INFO - START NSP_OEC_Training_Chapter_7 Start Time = 2024-10-01 21:33:56
+2024-10-01 21:33:56,410 - INFO - NSP_OEC_Training_Chapter_7 Step 0 - Initialize the configuration file parser
+2024-10-01 21:33:56,411 - INFO - Process NSP_OEC_Training_Chapter_7 Step 0 - Initializing and starting Logging Process.
+2024-10-01 21:33:56,456 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 The total process duration was:0.05
+2024-10-01 21:33:56,456 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Stop Time = 2024-10-01 21:33:56
+2024-10-01 21:33:56,456 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Short process duration less than 3 Seconds:0.05
+2024-10-01 21:33:56,456 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Performance optimization is not reccomended
+2024-10-01 21:33:56,456 - INFO - END NSP_OEC_Training_Chapter_7 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-01 21:57:24,044 - INFO - START NSP_OEC_Training_Chapter_7 =============================================
+2024-10-01 21:57:24,044 - INFO - START NSP_OEC_Training_Chapter_7 Start Time = 2024-10-01 21:57:24
+2024-10-01 21:57:24,044 - INFO - NSP_OEC_Training_Chapter_7 Step 0 - Initialize the configuration file parser
+2024-10-01 21:57:24,045 - INFO - Process NSP_OEC_Training_Chapter_7 Step 0 - Initializing and starting Logging Process.
+2024-10-01 21:57:24,106 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 The total process duration was:0.06
+2024-10-01 21:57:24,107 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Stop Time = 2024-10-01 21:57:24
+2024-10-01 21:57:24,107 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Short process duration less than 3 Seconds:0.06
+2024-10-01 21:57:24,107 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Performance optimization is not reccomended
+2024-10-01 21:57:24,107 - INFO - END NSP_OEC_Training_Chapter_7 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-01 21:57:59,810 - INFO - START NSP_OEC_Training_Chapter_7 =============================================
+2024-10-01 21:57:59,810 - INFO - START NSP_OEC_Training_Chapter_7 Start Time = 2024-10-01 21:57:59
+2024-10-01 21:57:59,810 - INFO - NSP_OEC_Training_Chapter_7 Step 0 - Initialize the configuration file parser
+2024-10-01 21:57:59,811 - INFO - Process NSP_OEC_Training_Chapter_7 Step 0 - Initializing and starting Logging Process.
+2024-10-01 21:57:59,869 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 The total process duration was:0.06
+2024-10-01 21:57:59,869 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Stop Time = 2024-10-01 21:57:59
+2024-10-01 21:57:59,869 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Short process duration less than 3 Seconds:0.06
+2024-10-01 21:57:59,869 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Performance optimization is not reccomended
+2024-10-01 21:57:59,869 - INFO - END NSP_OEC_Training_Chapter_7 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-01 22:12:34,825 - INFO - START NSP_OEC_Training_Chapter_7 =============================================
+2024-10-01 22:12:34,825 - INFO - START NSP_OEC_Training_Chapter_7 Start Time = 2024-10-01 22:12:34
+2024-10-01 22:12:34,825 - INFO - NSP_OEC_Training_Chapter_7 Step 0 - Initialize the configuration file parser
+2024-10-01 22:12:34,826 - INFO - Process NSP_OEC_Training_Chapter_7 Step 0 - Initializing and starting Logging Process.
+2024-10-01 22:12:34,934 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 The total process duration was:0.11
+2024-10-01 22:12:34,934 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Stop Time = 2024-10-01 22:12:34
+2024-10-01 22:12:34,934 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Short process duration less than 3 Seconds:0.11
+2024-10-01 22:12:34,934 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Performance optimization is not reccomended
+2024-10-01 22:12:34,934 - INFO - END NSP_OEC_Training_Chapter_7 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-01 22:13:36,170 - INFO - START NSP_OEC_Training_Chapter_7 =============================================
+2024-10-01 22:13:36,170 - INFO - START NSP_OEC_Training_Chapter_7 Start Time = 2024-10-01 22:13:36
+2024-10-01 22:13:36,170 - INFO - NSP_OEC_Training_Chapter_7 Step 0 - Initialize the configuration file parser
+2024-10-01 22:13:36,172 - INFO - Process NSP_OEC_Training_Chapter_7 Step 0 - Initializing and starting Logging Process.
+2024-10-01 22:13:36,340 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 The total process duration was:0.17
+2024-10-01 22:13:36,341 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Stop Time = 2024-10-01 22:13:36
+2024-10-01 22:13:36,341 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Short process duration less than 3 Seconds:0.17
+2024-10-01 22:13:36,341 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_7 Performance optimization is not reccomended
+2024-10-01 22:13:36,341 - INFO - END NSP_OEC_Training_Chapter_7 =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
