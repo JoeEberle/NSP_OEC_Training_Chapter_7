@@ -473,11 +473,8 @@ To get started with the **Nsp Oec Training Chapter 7** solution repository, foll
  ![additional_image](normal_vital_ranges.png)  <br>![additional_image](NSP_OEC_Training_Chapter_7.png)  <br>![additional_image](Pain_assessment.png)  <br>![additional_image](sample_taking_history.png)  <br>![additional_image](scene_size_up.png)  <br>![additional_image](take_vital_signs.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
