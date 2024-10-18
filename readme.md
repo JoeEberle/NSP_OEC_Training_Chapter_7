@@ -438,6 +438,9 @@ This guide covers the six key aspects of vital signs assessment, giving you a co
   27. **Vital Signs** - Measurements of the body's essential functions, including heart rate, respiratory rate, blood pressure, and temperature. 
  ![Image image_filename](sample.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Nsp Oec Training Chapter 7** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -452,7 +455,7 @@ To get started with the **Nsp Oec Training Chapter 7** solution repository, foll
 
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
