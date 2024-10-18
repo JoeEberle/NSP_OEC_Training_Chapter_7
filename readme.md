@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 7 - National Ski Patrol - Outdoor Emergency Care chapter 7![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Nsp Oec Training Chapter 7 
+    ## National Ski Patrol - Outdoor Emergency Care chapter 7
+    ![Image image_filename](code.png)
 Chapter 7 - Patient Assessment
 
 1. Explain and demonstrate the five parts of a patient assessment.
@@ -446,12 +449,15 @@ To get started with the **Nsp Oec Training Chapter 7** solution repository, foll
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
