@@ -4,7 +4,25 @@
 
 ## National Ski Patrol - Outdoor Emergency Care chapter 7
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 Chapter 7 - Patient Assessment
 
 1. Explain and demonstrate the five parts of a patient assessment.
@@ -442,7 +460,13 @@ This guide covers the six key aspects of vital signs assessment, giving you a co
   25. **Sign** - An objective finding during a medical examination, such as a rash or swelling. 
   26. **Symptom** - A subjective experience reported by the patient, such as pain or dizziness. 
   27. **Vital Signs** - Measurements of the body's essential functions, including heart rate, respiratory rate, blood pressure, and temperature. 
- ![Image image_filename](code.png)![Image image_filename](sample.png)
+ 
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
