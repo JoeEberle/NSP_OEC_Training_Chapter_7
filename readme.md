@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 7 - National Ski Patrol - Outdoor Emergency Care chapter 7
-National Ski Patrol - Outdoor Emergency Care chapter 7
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 7 - National Ski Patrol - Outdoor Emergency Care chapter 7![Image image_filename](code.png)
 Chapter 7 - Patient Assessment
 
 1. Explain and demonstrate the five parts of a patient assessment.
@@ -443,9 +436,7 @@ This guide covers the six key aspects of vital signs assessment, giving you a co
   25. **Sign** - An objective finding during a medical examination, such as a rash or swelling. 
   26. **Symptom** - A subjective experience reported by the patient, such as pain or dizziness. 
   27. **Vital Signs** - Measurements of the body's essential functions, including heart rate, respiratory rate, blood pressure, and temperature. 
- 
-![Image image_filename](sample.png)
-
+ ![Image image_filename](sample.png)
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 7** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -460,6 +451,9 @@ To get started with the **Nsp Oec Training Chapter 7** solution repository, foll
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -469,13 +463,11 @@ To get started with the **Nsp Oec Training Chapter 7** solution repository, foll
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](normal_vital_ranges.png)  <br>![additional_image](NSP_OEC_Training_Chapter_7.png)  <br>![additional_image](Pain_assessment.png)  <br>![additional_image](sample_taking_history.png)  <br>![additional_image](scene_size_up.png)  <br>![additional_image](take_vital_signs.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
