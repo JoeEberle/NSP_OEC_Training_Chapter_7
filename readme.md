@@ -36,7 +36,7 @@ Controlling major bleeding is a critical first step in patient assessment during
 
 Controlling major bleeding during the primary patient assessment is crucial because uncontrolled hemorrhage is one of the leading causes of preventable death in trauma situations. If major bleeding is not addressed immediately, the patient can go into shock due to rapid blood loss, leading to organ failure and death within minutes. Here's why it's vital:
 
-1. **Prevent Hypovolemic Shock**: Excessive blood loss reduces the amount of oxygenated blood that can be delivered to the body’s organs. This can lead to shock, organ failure, and death.
+1. **Prevent Hypovolemic Shock**: Excessive blood loss reduces the amount of oxygenated blood that can be delivered to the bodyâ€™s organs. This can lead to shock, organ failure, and death.
 
 2. **Maintain Circulation**: Blood is necessary for carrying oxygen to the tissues. Without it, critical systems, like the brain and heart, cannot function properly.
 
@@ -52,7 +52,7 @@ When encountering a responsive patient, the first steps to take are as follows:
 
 Ensure Scene Safety: Before approaching the patient, ensure that the scene is safe for both you and the patient to prevent further harm.
 
-Introduce Yourself and Gain Consent: Approach the patient calmly, introduce yourself as a trained responder, and ask for their consent to provide care. For example, say, "I’m trained in first aid. Can I help you?"
+Introduce Yourself and Gain Consent: Approach the patient calmly, introduce yourself as a trained responder, and ask for their consent to provide care. For example, say, "Iâ€™m trained in first aid. Can I help you?"
 
 Assess the Level of Responsiveness: Use the AVPU scale to quickly evaluate the patient's responsiveness:
 
@@ -62,14 +62,14 @@ Pain: Does the patient respond to painful stimuli?
 Unresponsive: No response to stimuli.
 Perform a Quick Primary Assessment (ABC):
 
-Airway: Check if the patient’s airway is open and clear.
+Airway: Check if the patientâ€™s airway is open and clear.
 Breathing: Ensure the patient is breathing adequately.
 Circulation: Check for any major bleeding or circulation issues.
 Assess for Life-Threatening Conditions: Quickly scan for any obvious signs of severe injury or bleeding, and take immediate steps if necessary, such as controlling major bleeding.
 
-Conduct a Secondary Assessment: Once the patient’s immediate needs are addressed, ask about the patient’s symptoms and history (SAMPLE: Symptoms, Allergies, Medications, Past medical history, Last meal, Events leading up to the injury/illness) and perform a more detailed physical exam if needed.
+Conduct a Secondary Assessment: Once the patientâ€™s immediate needs are addressed, ask about the patientâ€™s symptoms and history (SAMPLE: Symptoms, Allergies, Medications, Past medical history, Last meal, Events leading up to the injury/illness) and perform a more detailed physical exam if needed.
 
-These steps ensure the responder provides appropriate care while focusing on the patient’s immediate safety and condition.
+These steps ensure the responder provides appropriate care while focusing on the patientâ€™s immediate safety and condition.
 
 ## 7.4 ABCD framework - Explain how the ABCD's are used in assessing a patient
 
@@ -98,7 +98,7 @@ Check for any significant injuries or other conditions affecting motor function.
 
 ## OPQRST mnemonic, commonly used to assess a patient's symptoms: 
 
-Here’s a list explaining the OPQRST mnemonic, commonly used to assess a patient's symptoms during a medical emergency, especially pain:
+Hereâ€™s a list explaining the OPQRST mnemonic, commonly used to assess a patient's symptoms during a medical emergency, especially pain:
 
 1. **O - Onset**: Ask, "When did the pain start?" and "What were you doing when it began?"
 2. **P - Provocation/Palliation**: Ask, "What makes the pain better or worse?" (e.g., movement, pressure, rest).
@@ -119,13 +119,13 @@ The AVPU scale is a quick tool used to assess a patient's level of consciousness
 3. **P - Pain**: The patient responds only to painful stimuli, such as a pinch or pressure.
 4. **U - Unresponsive**: The patient shows no response to verbal or painful stimuli and is unconscious.
 
-The AVPU scale is commonly used in emergency situations to quickly assess the patient’s neurological status.
+The AVPU scale is commonly used in emergency situations to quickly assess the patientâ€™s neurological status.
 
 
 
 
 
-Here’s a brief description of each letter in the DCAP-BTLS mnemonic:
+Hereâ€™s a brief description of each letter in the DCAP-BTLS mnemonic:
 
 1. D - **Deformities**:  Visible or palpable abnormal shapes or alignment of body parts.
 2. C - **Contusions**: Bruises or discoloration caused by blood collecting under the skin.
@@ -141,7 +141,7 @@ This mnemonic is used during a physical examination to identify specific injurie
 
 ## 7.6 Assessing a patient's pupils is an important part of the neurological assessment
 
-Assessing a patient's pupils is an important part of the neurological assessment to determine brain function and possible injury. The acronym **PERRLA** is often used, which stands for **Pupils Equal, Round, and Reactive to Light and Accommodation**. Here’s a step-by-step guide to assess the pupils:
+Assessing a patient's pupils is an important part of the neurological assessment to determine brain function and possible injury. The acronym **PERRLA** is often used, which stands for **Pupils Equal, Round, and Reactive to Light and Accommodation**. Hereâ€™s a step-by-step guide to assess the pupils:
 
 ### 1. **Prepare the Environment**
    - Dim the room slightly if possible, to make it easier to assess the reaction of the pupils to light.
@@ -182,7 +182,7 @@ Assessing a patient's pupils is an important part of the neurological assessment
 Pupil assessment can give insight into the patient's overall neurological condition and help determine the next steps in their care.
 
 
-## 7.7 Assessing eye movement is an important part of a neurological examination. It helps determine the function of the cranial nerves that control eye movements (cranial nerves III, IV, and VI) and can reveal possible issues such as nerve damage, muscle weakness, or brain injury. Here’s how to conduct an eye movement assessment:
+## 7.7 Assessing eye movement is an important part of a neurological examination. It helps determine the function of the cranial nerves that control eye movements (cranial nerves III, IV, and VI) and can reveal possible issues such as nerve damage, muscle weakness, or brain injury. Hereâ€™s how to conduct an eye movement assessment:
 
 ### 1. **Explain the Procedure to the Patient**
    - Inform the patient that you will be checking their eye movements by having them follow an object or your finger without moving their head.
@@ -193,7 +193,7 @@ Pupil assessment can give insight into the patient's overall neurological condit
 
 ### 3. **Use a Target**
    - Use your finger, a pen, or a small object as a target for the patient to follow.
-   - Position yourself about 12-18 inches (30-45 cm) in front of the patient’s face, where they can comfortably see your hand.
+   - Position yourself about 12-18 inches (30-45 cm) in front of the patientâ€™s face, where they can comfortably see your hand.
 
 ### 4. **Instruct the Patient to Follow the Target**
    - Ask the patient to follow the target with just their eyes, without moving their head.
@@ -241,7 +241,7 @@ Here is a breakdown of the normal vital signs for an **infant**, **child**, and 
    - **Heart Rate (Pulse)**: 100-160 beats per minute (bpm)
    - **Respiratory Rate**: 30-60 breaths per minute
    - **Blood Pressure**: 70-100 mmHg systolic (exact ranges vary based on age and size)
-   - **Temperature**: 97.9°F - 100.4°F (36.6°C - 38°C) (rectal temperature is typically used)
+   - **Temperature**: 97.9Â°F - 100.4Â°F (36.6Â°C - 38Â°C) (rectal temperature is typically used)
 
 ### 2. **Child (1-12 years)**
    - **Heart Rate (Pulse)**:
@@ -255,13 +255,13 @@ Here is a breakdown of the normal vital signs for an **infant**, **child**, and 
      - 1-3 years: 80-110 mmHg systolic
      - 4-5 years: 80-115 mmHg systolic
      - 6-12 years: 90-120 mmHg systolic
-   - **Temperature**: 98.6°F (37°C) (oral or axillary temperatures are commonly used)
+   - **Temperature**: 98.6Â°F (37Â°C) (oral or axillary temperatures are commonly used)
 
 ### 3. **Adult (13+ years)**
    - **Heart Rate (Pulse)**: 60-100 bpm
    - **Respiratory Rate**: 12-20 breaths per minute
    - **Blood Pressure**: 90-120 mmHg systolic / 60-80 mmHg diastolic
-   - **Temperature**: 98.6°F (37°C) (oral temperature)
+   - **Temperature**: 98.6Â°F (37Â°C) (oral temperature)
 
 ### Notes:
 - **Heart Rate**: Infants and young children typically have higher heart rates compared to adults due to their higher metabolic rates.
@@ -292,7 +292,7 @@ Here are five locations on the body where you can take a pulse, along with instr
 ### 3. **Brachial Pulse (Arm)**
    - **Location**: On the inner side of the arm, just above the elbow crease.
    - **How to Palpate**: 
-     - Extend the patient’s arm and turn the palm upward.
+     - Extend the patientâ€™s arm and turn the palm upward.
      - Place your index and middle fingers in the crease of the elbow, slightly toward the inside of the arm.
      - Press gently until you feel the brachial artery pulse.
    - **Common Use**: This is frequently used in infants or for measuring blood pressure with a stethoscope.
@@ -312,18 +312,18 @@ Here are five locations on the body where you can take a pulse, along with instr
    - **Common Use**: This is used to assess circulation in the lower extremities, especially in patients with diabetes or vascular disease.
 
 ### Summary of Locations:
-1. **Radial Pulse** – Wrist (thumb side)
-2. **Carotid Pulse** – Neck (next to trachea)
-3. **Brachial Pulse** – Inner arm (above the elbow)
-4. **Femoral Pulse** – Groin (where leg meets abdomen)
-5. **Dorsalis Pedis Pulse** – Top of the foot (near ankle)
+1. **Radial Pulse** â€“ Wrist (thumb side)
+2. **Carotid Pulse** â€“ Neck (next to trachea)
+3. **Brachial Pulse** â€“ Inner arm (above the elbow)
+4. **Femoral Pulse** â€“ Groin (where leg meets abdomen)
+5. **Dorsalis Pedis Pulse** â€“ Top of the foot (near ankle)
 
 By checking pulses in different locations, you can assess blood flow and circulatory function in various parts of the body.
 
 
 ## 7.10   Describe and demonstrate how to assess vital signs.
  
- Assessing vital signs is a critical part of a patient’s assessment to monitor their overall health and detect any potential medical issues. Vital signs include **heart rate (pulse)**, **respiratory rate**, **blood pressure**, and **temperature**. Additionally, **oxygen saturation (SpO2)** and **pain levels** are often considered.
+ Assessing vital signs is a critical part of a patientâ€™s assessment to monitor their overall health and detect any potential medical issues. Vital signs include **heart rate (pulse)**, **respiratory rate**, **blood pressure**, and **temperature**. Additionally, **oxygen saturation (SpO2)** and **pain levels** are often considered.
 
 Here is a step-by-step guide on how to assess each of the vital signs:
 
@@ -374,12 +374,12 @@ Here is a step-by-step guide on how to assess each of the vital signs:
    - **How to Assess**:
      - For an **oral reading**, place the thermometer under the tongue and wait for the beep (or for the indicated time) to record the reading.
      - For an **axillary reading**, place the thermometer in the armpit and hold the arm down until the temperature stabilizes.
-     - For a **tympanic reading**, gently insert the thermometer into the ear canal following the device’s instructions.
+     - For a **tympanic reading**, gently insert the thermometer into the ear canal following the deviceâ€™s instructions.
    - **Normal Range**:
-     - **Oral**: 98.6°F (37°C)
-     - **Rectal**: 99.6°F (37.5°C)
-     - **Axillary**: 97.6°F (36.5°C)
-     - **Tympanic**: 98.6°F (37°C)
+     - **Oral**: 98.6Â°F (37Â°C)
+     - **Rectal**: 99.6Â°F (37.5Â°C)
+     - **Axillary**: 97.6Â°F (36.5Â°C)
+     - **Tympanic**: 98.6Â°F (37Â°C)
 
 ---
 
@@ -408,7 +408,7 @@ Here is a step-by-step guide on how to assess each of the vital signs:
 | **Heart Rate (bpm)**    | 100-160               | 70-120               | 60-100                 |
 | **Respiratory Rate (rpm)** | 30-60               | 18-25                | 12-20                  |
 | **Blood Pressure (mmHg)** | 70-100 systolic      | 80-120 systolic      | 90-120 systolic        |
-| **Temperature (°F)**    | 97.9-100.4 (rectal)   | 98.6 (oral)          | 98.6 (oral)            |
+| **Temperature (Â°F)**    | 97.9-100.4 (rectal)   | 98.6 (oral)          | 98.6 (oral)            |
 | **Oxygen Saturation**   | 95-100%               | 95-100%              | 95-100%                |
 
 ---
